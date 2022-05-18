@@ -122,3 +122,51 @@ int main()
     cout << "Thanks for Using My software" << endl;
     return 0;
 }
+
+output
+Telephone Directory
+1. Insert record in Directory
+2. Display Telephone Directory
+3. Exit
+
+Enter your choice :- 1
+
+Enter no of records you want to enter :- 2
+
+Which Collision handling technique do you want to use
+1. Linear Probing
+2. Quadratic Probing
+Enter your Choice :- 1
+
+Enter Telephone no :- 8669487659
+
+Enter name of the person :- vijay
+
+Enter Telephone no :- 6957893643
+
+Enter name of the person :- jay
+
+Telephone Directory
+1. Insert record in Directory
+2. Display Telephone Directory
+3. Exit
+
+Enter your choice :- 2
+
+Index   Name    Mobile
+0       -       0
+1       -       0
+2       -       0
+3       jay     6957893643
+4       -       0
+5       -       0
+6       -       0
+7       -       0
+8       -       0
+9       vijay   8669487659
+Telephone Directory
+1. Insert record in Directory
+2. Display Telephone Directory
+3. Exit
+
+Enter your choice :-
