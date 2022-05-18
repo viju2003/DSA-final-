@@ -127,3 +127,80 @@ break;
  }
 }while(ch!=5);
 }
+
+output
+
+
+
+*********File operations**********
+1.Write
+2.Display
+3.Search
+4.Delete
+Enter your choice : 1
+Enter number of records : 2
+
+Enter Roll NO : 25
+Enter name : vijay
+Enter the address of the student : latur
+Enter division : b
+
+Enter Roll NO : 25
+Enter name : jay
+Enter the address of the student : pune
+Enter division : b
+
+
+
+*********File operations**********
+1.Write
+2.Display
+3.Search
+4.Delete
+Enter your choice : 2
+
+List of records
+*Student Roll No : 25
+*Student Name : vijay
+*Address: latur
+*Division: b
+*Student Roll No : 25
+*Student Name : jay
+*Address: pune
+*Division: b
+
+
+*********File operations**********
+1.Write
+2.Display
+3.Search
+4.Delete
+Enter your choice : 3
+Enter Student Roll No : 25
+
+
+*Student Roll No : 25
+*Student Name : vijay
+*Address: latur
+*Division: b
+
+
+*********File operations**********
+1.Write
+2.Display
+3.Search
+4.Delete
+Enter your choice : 4
+Enter no to be deleted : 1
+
+
+
+Record Deleted
+
+
+*********File operations**********
+1.Write
+2.Display
+3.Search
+4.Delete
+Enter your choice :
