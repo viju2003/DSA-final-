@@ -116,3 +116,49 @@ int main()
  }
 }
 
+output
+------------
+Book Tree Creation
+------------
+1.Create
+2.Display
+3.Quit
+Enter your choice
+1
+Enter name of book: data
+Enter number of chapters in book: 2
+Enter chapter name:
+hashing
+Enter number of sections in the chapter: 1
+Enter section head: basic
+Enter number of Sub section: 2
+Enter Sub-Section head: division
+Enter Sub-Section head: folding
+Enter chapter name:
+tree
+Enter number of sections in the chapter: 2
+Enter section head: terminology
+Enter number of Sub section: 2
+Enter Sub-Section head: genera
+Enter Sub-Section head: binary
+Enter section head: data
+Enter number of Sub section: 1
+Enter Sub-Section head: tyoe
+------Book Hierarchy------
+Book Title: data
+chapters1 hashing
+sections
+ basic
+sub section
+ division
+ folding
+chapters2 tree
+sections
+ terminology
+sub section
+ genera
+ binary
+ data
+sub section
+ tyoe------------
+Book Tree Creation
